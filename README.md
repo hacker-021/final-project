@@ -1,8 +1,11 @@
 Title: "Online Gift Store"
+
 Members:
 1. Maryam Amjad(23-st-021)
 2. Malaika Iqbal(23-st-049)
+
    Link to Github repo: 
+
 List of Integrated Features:
 1. Regristration/Login
 2. Add products
